@@ -3,6 +3,12 @@ Standard game of Hangman. A word is chosen at random from a list and the
 user must guess the word letter by letter before running out of 
 attempts."""
 
+'''
+Author: Tino Storie
+Date: 02/28/2024
+
+'''
+
 import random
 
 def main():
@@ -15,7 +21,7 @@ def main():
 
     play_again = True
 
-    while play_again:
+    while play_again: 
         # set up the game loop
 
         words = ["hangman", "chairs", "backpack", "bodywash", "clothing",
