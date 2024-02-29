@@ -6,7 +6,6 @@ attempts."""
 '''
 Author: Tino Storie
 Date: 02/28/2024
-
 '''
 
 import random
